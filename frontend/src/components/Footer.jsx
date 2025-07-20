@@ -106,7 +106,7 @@ const Footer = () => {
                 <FaClock className="w-5 h-5 text-[#FEB64C] flex-shrink-0" />
                 <div>
                   <p className="text-[#FEB64C] font-body font-medium">Mon - Sun</p>
-                  <p className="text-[#FEB64C]/90 font-body text-sm">08:30 AM - 08:30 PM</p>
+                  <p className="text-[#FEB64C]/90 font-body text-sm">08:30 AM - 09:00 PM</p>
                 </div>
               </div>
             </div>

@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Spicy Indian Flavours**
 - **Phone**: (+1) 289-308-6626
-- **Hours**: Daily 8:30 AM - 8:30 PM
+- **Hours**: Daily 8:30 AM - 9:00 PM
 - **Location**: York, Ontario, Canada
 - **Website**: [https://spicyindianflavours.vercel.app/](https://spicyindianflavours.vercel.app/)
 

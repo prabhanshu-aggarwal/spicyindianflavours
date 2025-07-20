@@ -149,7 +149,7 @@ const HeroCarousel = () => {
           >
             <div className="flex items-center justify-center gap-2">
               <FaClock className="text-[#FEB64C]" />
-              <span>Open Daily 8:30 AM - 8:30 PM</span>
+              <span>Open Daily 8:30 AM - 9:00 PM</span>
             </div>
             <div className="flex items-center justify-center gap-2">
               <FaPhone className="text-[#FEB64C]" />

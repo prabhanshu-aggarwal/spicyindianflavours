@@ -40,7 +40,7 @@ const Contact = () => {
     },
     {
       question: "What are your operating hours?",
-      answer: "We are open daily from 8:30 AM to 8:30 PM, serving breakfast, lunch, and dinner."
+      answer: "We are open daily from 8:30 AM to 9:00 PM, serving breakfast, lunch, and dinner."
     },
     {
       question: "Do you offer catering services?",
@@ -110,7 +110,7 @@ const Contact = () => {
             <div className="flex items-center justify-center gap-6 text-sm">
               <div className="flex items-center gap-2 bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full">
                 <FaClock className="text-[#FEB64C]" />
-                <span>Open Daily 8:30 AM - 8:30 PM</span>
+                <span>Open Daily 8:30 AM - 9:00 PM</span>
               </div>
               <div className="flex items-center gap-2 bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full">
                 <FaStar className="text-[#FEB64C]" />
@@ -297,7 +297,7 @@ const Contact = () => {
                       <div className="space-y-4">
                         <div className="flex justify-between items-center py-3 border-b border-gray-100">
                           <span className="font-semibold text-[#6E1E00]">Monday - Sunday</span>
-                          <span className="text-gray-700">8:30 AM - 8:30 PM</span>
+                          <span className="text-gray-700">8:30 AM - 9:00 PM</span>
                         </div>
                         <div className="bg-[#FAEAD1] p-4 rounded-lg">
                           <p className="text-sm text-[#6E1E00] font-semibold mb-1">Special Hours</p>
