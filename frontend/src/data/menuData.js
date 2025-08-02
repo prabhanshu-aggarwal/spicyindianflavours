@@ -84,7 +84,7 @@ const menuData = [
     "description": "Delicately steamed dumplings filled with a savory mixture. Served as an 8-piece portion.",
     "price": 9.99,
     "category": "appetizers",
-    "imageUrl": "https://www.thespruceeats.com/thmb/T_R22QniykdQ9aPCLKIk-O22Gh4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steamed-momos-wontons-1957616-hero-01-1c59e22bad0347daa8f0dfe12894bc3c.jpg"
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFm1OnBMCxVO6om7GFGF55ZRWneLAoxaML-w&s"
   },
   {
     "name": "Masala Fries",
